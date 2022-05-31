@@ -1,0 +1,35 @@
+body{
+background-color: #8c0017;
+background-image: url("https://www.transparenttextures.com/patterns/cardboard.png");
+
+}
+
+nav{
+background-color: #8c0017;
+background-image: url("https://www.transparenttextures.com/patterns/kinda-jean.png");
+}
+
+.container{
+	background-color: #8c0017;
+background-image: url("https://www.transparenttextures.com/patterns/cardboard-flat.png");
+margin-top: 58px;
+}
+
+.text{
+	width: 80%;
+	height: 500px;
+}
+
+form{
+	text-align: center;
+}
+
+.heading{
+	width: 60%;
+	margin-bottom: 20px;
+}
+
+h2{
+	margin-top: 50px;
+	line-height: 50px;
+}
